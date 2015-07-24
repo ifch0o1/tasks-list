@@ -1,0 +1,11 @@
+- Add Forgotten password option to hrefs in login and regirest blade files.
+
+- Make password recovery.
+
+- TaskController@store -> calculate dates for Today, Tomorrow, etc.. Make service if needed.
+
+- TaskController -> getFormFields List ids have to be passed through js insted of <select>.
+
+- Test ListController and TaskController! Isn't fully tested. Write some tests if needed.
+
+- Test Has Many Through relations with different users - just in case.
